@@ -1,0 +1,50 @@
+name: apptutoria
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: any
+  get: ^4.6.1
+
+  firebase_core: ^1.11.0
+  cloud_firestore: ^3.1.6
+  firebase_auth:
+
+  #open_mail_app: ^0.4.3
+  #path_provider: ^2.0.8
+  #sqflite: ^2.0.2
+  #url_launcher: ^6.0.18*/
+  
+  
+
+  cupertino_icons: ^1.0.0
+  flutter_svg: ^0.19.1
+  email_validator: '^1.0.6'
+
+  
+
+  provider: ^4.3.2+1
+  sqflite: ^2.0.2
+  path_provider: ^2.0.8
+  #appium_driver: ^0.5.2
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+  #test: any
+
+flutter:
+ 
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+ 

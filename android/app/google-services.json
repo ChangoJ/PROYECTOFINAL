@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743950402275",
+    "project_id": "apptutoria-22088",
+    "storage_bucket": "apptutoria-22088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743950402275:android:cb62bee8f1c7d381a27bd6",
+        "android_client_info": {
+          "package_name": "com.example.apptutoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743950402275-sg166p4ur0b7kltbtcgeda5n3a42h1q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoCngawunwK22CgdUqEMG7ckrrUEeWvWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743950402275-sg166p4ur0b7kltbtcgeda5n3a42h1q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
